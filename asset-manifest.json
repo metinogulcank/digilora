@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/digilora/static/css/main.90c0c175.css",
+    "main.js": "/digilora/static/js/main.77e1590f.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/digilora/static/js/787.c4e7f8f9.chunk.js",
+    "index.html": "/digilora/index.html",
+    "main.90c0c175.css.map": "/digilora/static/css/main.90c0c175.css.map",
+    "main.77e1590f.js.map": "/digilora/static/js/main.77e1590f.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/digilora/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.90c0c175.css",
+    "static/js/main.77e1590f.js"
+  ]
+}
